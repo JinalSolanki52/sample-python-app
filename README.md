@@ -60,3 +60,4 @@ $ curl http://localhost:5001/debug
 Pointing your browser to <http://localhost:5001/debug/ui> will bring up the following:
 
 ![](images/output.png)
+# retry oidc
